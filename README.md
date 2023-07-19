@@ -2,7 +2,8 @@
 ## Project: Django Models
 
 Author: Sarah Glass for Python 401
-Worked at a Remo table with Anthony, Dan, Slava, and Jared.
+
+- Worked at a Remo table with Anthony, Dan, Slava, and Jared.
 
 ## Overview
 
@@ -16,6 +17,7 @@ Many feature tasks for Model, Views, Templates, and User Acceptance Tests.
 ## Links and Resources
 
 * TA and peer help.
+* Reviewing class demo.
 
 ## Setup
 
